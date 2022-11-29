@@ -1,4 +1,4 @@
-# PP_Tmperature_Converter
+# PP_Temperature_Converter
 Самый примитивный конвертер единиц измерения температуры.
 
 Делаю что умею.
