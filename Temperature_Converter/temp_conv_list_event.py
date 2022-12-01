@@ -14,7 +14,7 @@ def rnd_wrong_answer():
 
     while True:
         mem_num = generate_num
-        generate_num = rnd.randint(generate_num, generate_num + 33)
+        generate_num = rnd.randint(generate_num, generate_num + 5)
         time.sleep(rnd.uniform(0.2, 1.5))
         if generate_num >= 100:
             print('...100%')
